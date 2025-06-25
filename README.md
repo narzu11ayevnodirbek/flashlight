@@ -2,6 +2,10 @@
 
 A simple and minimal **Flashlight app** built with Flutter. This app allows users to toggle the flashlight on or off using a single button. It's designed to be fast, responsive, and easy to use.
 
+## 👨🏻‍💻 App architecture
+
+- MVVM architecture
+
 ## ✨ Features
 
 - Toggle flashlight (torch) on/off
