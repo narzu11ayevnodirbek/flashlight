@@ -11,9 +11,9 @@ A simple and minimal **Flashlight app** built with Flutter. This app allows user
 
 ## 📱 Screenshots
 
-<img src="screenshots/flashlight_on.png" width="200"> <img src="screenshots/turn_off.png" width="200">
-<img src="screenshots/flashlight_on.png" width="200"> <img src="screenshots/turn_on.png" width="200">
-<img src="screenshots/flashlight_on.png" width="200"> <img src="screenshots/app_icon.png" width="200">
+<img src="screenshots/flashlight_on.png" width="200"> <img src="assets/screenshots/turn_off.png" width="200">
+<img src="screenshots/flashlight_on.png" width="200"> <img src="assets/screenshots/turn_on.png" width="200">
+<img src="screenshots/flashlight_on.png" width="200"> <img src="assets/screenshots/app_icon.png" width="200">
 
 ## 🛠 Tech Stack
 
