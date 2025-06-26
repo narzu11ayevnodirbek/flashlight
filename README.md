@@ -29,6 +29,6 @@ A simple and minimal **Flashlight app** built with Flutter. This app allows user
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/flashlight_app.git
+   git clone https://github.com/narzu11ayevnodirbek/flashlight_app.git
    cd flashlight_app
 
